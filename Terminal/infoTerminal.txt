@@ -1,0 +1,7 @@
+COMANDOS
+- Crear carpeta = mkdir nombreDirectorio
+- Entrar en el directorio = cd nombreDirectorio
+- Volver un directorio = cd..
+- Listar archivos y directorios = dir
+- Crear un archivo txt con contenido = echo "hola mundo">hola.txt
+- Ver el contenido = cat hola.txt>hola.txt
